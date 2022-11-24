@@ -8,5 +8,6 @@ target 'RxSwift_TableView' do
   # Pods for RxSwift_TableView
 pod 'RxSwift'
 pod 'RxCocoa'
+pod 'SnapKit'
 
 end
